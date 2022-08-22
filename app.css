@@ -9,3 +9,7 @@ h1 {
     font-size: 8rem;
 
 }
+
+.lette {
+    transition: color 100ms;
+}
