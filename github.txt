@@ -1,0 +1,22 @@
+GITHUB TUTORIAL: List use cases of Github
+
+Github is a web-based Git repository hosting service.
+
+-Simply put, it is a tool that enables collaboration by hosting shared Git 
+respositories that teams of developers can all contribute to.
+
+Git and Github are different!!! Git is a Version Control System. 
+Github is an online platform for hosting and sharing code, text files,
+and even more complex file formats.
+
+Why use Github?
+- It provides a great way to store your code in a remote location.
+- It's a fantastic tool to collaborate with other developers both privately and publicly.
+- Many large open source projects are hosted on Github, which makes it very easy to
+  examine the code both on Github and locally.
+
+We are going to learn more about how to get our repository on Github. And also bring a repository
+from Github to our computer and work on them locally on our computer. 
+
+
+
